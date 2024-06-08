@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/AStarDemo/v15
+/AStarDemo/x64/Debug
+/x64/Debug
+/AStarDemo/Debug/AStarDemo.tlog
